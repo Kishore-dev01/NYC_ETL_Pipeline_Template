@@ -11,6 +11,7 @@ This repository contains an ETL pipeline for processing the NYC taxi dataset usi
   - `gold_layer.py`: Aggregated and business-level data.
 - `utilities/`: Contains utility functions and modules.
 
+```text
 nyc-taxi-etl-pipeline/
 ├── explorations/
 │   └── exploration_notebook.ipynb
